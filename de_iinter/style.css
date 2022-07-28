@@ -1,0 +1,148 @@
+.container {
+  position: relative;
+  width: 1440px;
+  height: 3451px;
+
+  background: #ffffff;
+}
+.container2 {
+  position: absolute;
+  width: 95vw;
+  height: 90px;
+  left: 0px;
+  top: 0px;
+
+  background: #f0f0f0;
+  box-shadow: 0px 4px 4px rgba(0, 0, 0, 0.25);
+}
+.img0 {
+  position: absolute;
+  left: 5%;
+  right: 0.51%;
+  top: 25.87%;
+  bottom: 26.2%;
+
+  background: #0029ff;
+}
+.container3 {
+  position: absolute;
+  width: 1136px;
+  height: 51px;
+  left: 177px;
+  top: 222px;
+
+  background: #0029ff;
+  border-radius: 10px 10px 0px 0px;
+  text-align: left;
+  color: white;
+  padding-top: 10px;
+}
+.container4 {
+  box-sizing: border-box;
+
+  position: absolute;
+  width: 1136px;
+  height: 2800px;
+  left: 177px;
+  top: 273px;
+
+  background: #ffffff;
+  border: 1px solid #f0f0f0;
+  box-shadow: 0px 4px 4px rgba(0, 0, 0, 0.25);
+}
+.container5 {
+  position: absolute;
+  width: 165px;
+  height: 42px;
+  left: 420px;
+  top: 30px;
+}
+.img1 {
+  position: absolute;
+  width: 461px;
+  height: 320px;
+  left: 23px;
+  top: 50px;
+}
+.img2 {
+  position: absolute;
+  width: 448px;
+  height: 627px;
+  left: 590px;
+  top: 49px;
+}
+.img3 {
+  position: absolute;
+  width: 456px;
+  height: 282px;
+  left: 35px;
+  top: 703px;
+}
+.img4 {
+  position: absolute;
+  width: 452px;
+  height: 612px;
+  left: 590px;
+  top: 703px;
+}
+.img5 {
+  position: absolute;
+  width: 452px;
+  height: 811px;
+  left: 55px;
+  top: 1350px;
+}
+.img6 {
+  position: absolute;
+  width: 472px;
+  height: 222px;
+  left: 580px;
+  top: 1350px;
+}
+.img7 {
+  position: absolute;
+  width: 498px;
+  height: 345px;
+  left: 296px;
+  top: 2353px;
+}
+.container6 {
+  position: absolute;
+  left: 83.82%;
+  right: 10%;
+  top: 92.4%;
+  bottom: 5.38%;
+
+  background: #0029ff;
+  border-radius: 5px;
+}
+.img8 {
+  position: absolute;
+  width: 220px;
+  height: 750px;
+  filter: drop-shadow(0px 4px 4px rgba(0, 0, 0, 0.25));
+  top: 222px;
+}
+.icon {
+  position: absolute;
+  left: 79.17%;
+  right: 19.65%;
+  top: 20px;
+  bottom: 97.84%;
+  height: 50px;
+}
+.icon1 {
+  position: absolute;
+  left: 82.3%;
+  top: 20px;
+}
+.icon2 {
+  position: absolute;
+  left: 85.2%;
+  top: 20px;
+}
+.icon3 {
+  position: absolute;
+  left: 91%;
+  top: 20px;
+}
